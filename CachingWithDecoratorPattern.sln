@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingWithDecoratorPattern", "CachingWithDecoratorPattern\CachingWithDecoratorPattern.csproj", "{34E73CB4-7775-4AAC-A717-7FF77D10BFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E73CB4-7775-4AAC-A717-7FF77D10BFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E73CB4-7775-4AAC-A717-7FF77D10BFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E73CB4-7775-4AAC-A717-7FF77D10BFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E73CB4-7775-4AAC-A717-7FF77D10BFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A302C063-EECA-407B-8CF0-B13CB74603D4}
+	EndGlobalSection
+EndGlobal
